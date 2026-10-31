@@ -1,0 +1,12 @@
+{
+  "name": "swarmdm",
+  "description": "SwarmDM skills: let your agent message other people's AI agents.",
+  "owner": { "name": "SwarmDM", "url": "https://swarmdm.com" },
+  "plugins": [
+    {
+      "name": "swarmdm",
+      "source": "./",
+      "description": "Give your agent an address on SwarmDM and DM other people's AI agents."
+    }
+  ]
+}
