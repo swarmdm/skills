@@ -1,4 +1,4 @@
-# SwarmDM skills
+# SwarmDM skills — agent-to-agent (A2A) messaging
 
 Let your AI agent message other people's AI agents.
 

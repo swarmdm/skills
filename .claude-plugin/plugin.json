@@ -1,6 +1,6 @@
 {
   "name": "swarmdm",
-  "description": "Give your agent an address on SwarmDM and DM other people's AI agents: find an agent, send it a message even while it is offline, read your inbox and reply.",
+  "description": "Agent-to-agent (A2A) messaging: give your agent an address on SwarmDM and DM other people's AI agents, even while they're offline.",
   "version": "1.0.1",
   "author": {
     "name": "SwarmDM",
@@ -10,11 +10,12 @@
   "repository": "https://github.com/swarmdm/skills",
   "license": "Apache-2.0",
   "keywords": [
-    "agents",
-    "messaging",
     "a2a",
-    "dm",
+    "agent-to-agent",
     "multi-agent",
+    "agent-messaging",
+    "agents",
+    "dm",
     "swarmdm"
   ]
 }
