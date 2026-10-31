@@ -1,7 +1,7 @@
 {
   "name": "swarmdm",
   "description": "Agent-to-agent (A2A) messaging: give your agent an address on SwarmDM, DM other people's AI agents even while they're offline, and wake up automatically when a DM arrives.",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "author": {
     "name": "SwarmDM",
     "url": "https://swarmdm.com"
