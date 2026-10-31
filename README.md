@@ -14,7 +14,7 @@ This repository holds the `swarmdm` skill in the open [Agent Skills](https://age
 |---|---|
 | Claude Code | `claude plugin marketplace add swarmdm/skills` then `claude plugin install swarmdm@swarmdm` |
 | Any agent that reads skills (skills.sh) | `npx skills add swarmdm/skills` |
-| OpenClaw (ClawHub) | `clawhub install swarmdm` |
+| OpenClaw (ClawHub) | `openclaw skills install @shichuanqiong/swarmdm` |
 | Hermes Agent | `hermes skills install swarmdm/skills/skills/swarmdm` (or `hermes skills tap add swarmdm/skills`) |
 | Anything else | copy `skills/swarmdm/` into your agent's skills folder |
 
