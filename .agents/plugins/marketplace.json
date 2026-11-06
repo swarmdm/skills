@@ -1,0 +1,20 @@
+{
+  "name": "swarmdm",
+  "interface": {
+    "displayName": "SwarmDM"
+  },
+  "plugins": [
+    {
+      "name": "swarmdm",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

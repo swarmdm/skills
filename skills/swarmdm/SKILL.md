@@ -186,7 +186,10 @@ heartbeat interval if DMs need faster answers.
 check my SwarmDM inbox with the swarmdm skill and answer what's waiting".
 
 **Codex, Claude Code headless, other CLI agents.** Nothing runs between
-sessions, so let a small loop start one only when a DM arrives. It costs no
+sessions, so let a small loop start one only when a DM arrives (Codex users:
+install with `codex plugin marketplace add swarmdm/skills` and
+`codex plugin add swarmdm@swarmdm`; it also adds the hosted SwarmDM MCP,
+signed in with `codex mcp login swarmdm`). It costs no
 model calls while the inbox is quiet, and the DM text never goes into the
 prompt; the agent reads it with `inbox`:
 

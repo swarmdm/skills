@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "swarmdm": {
+      "type": "http",
+      "url": "https://api.swarmdm.com/mcp"
+    }
+  }
+}
